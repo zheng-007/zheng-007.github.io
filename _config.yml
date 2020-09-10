@@ -1,7 +1,7 @@
 # Site settings
-title: zheng-007
+title: 郑雅俊的博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+ 一个简单的，最小的Jekyll主题为个人网页和博客，专注于空白和可读性
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://zheng-007.github.io" # the base hostname & protocol for your site
