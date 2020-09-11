@@ -2,6 +2,7 @@
 layout: page
 title: "如何搭建一个个人博客"
 date:    2020-09-10 17:30:21 +0086
+categories: ["学习笔记"]
 author: "Bart Simpson"
 meta: "Springfield"
 ---
